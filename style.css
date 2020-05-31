@@ -12,11 +12,13 @@ p{
     border: black;
 }
 section {
-	border:	2px solid black;
+	border:2px solid black;    ;
 	font-family: cursive;
-	color: black;
+	color:black;
 	position:relative;
 	background-color:burlywood;
+	margin-left:20px;
+	margin-bottom:20px;
 }
 #chicken {
 	border: 1px solid black;
